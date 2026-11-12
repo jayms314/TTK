@@ -1,0 +1,1 @@
+Ce document a pour objectif de présenter la prise en main de TTK sur Jupyter Notebook, ainsi que les différentes étapes du travail réalisé, afin de faciliter la compréhension du projet et sa reprise par une nouvelle personne.
